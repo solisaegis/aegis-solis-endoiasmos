@@ -50,9 +50,10 @@ cad27d4a45e85c3f64fd99fb7f71a478b32bf600cb94b19fe8430987d7fd80c8
 
 ## License
 
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)
 
-Reuse and adaptation are permitted with attribution.  
+Redistribution is permitted, including for commercial use, with attribution.  
+No modifications or derivative works are allowed.  
 No authority, endorsement, certification, or compliance is implied.
 
 ---
